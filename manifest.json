@@ -1,0 +1,10 @@
+{
+  "name": "Easy Datalayer",
+  "description": "Extension for datalayer",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "easyd.html",
+    "default_icon": "easyd_icon.png"
+  }
+}
